@@ -1,2 +1,2 @@
 # Task1
-Speech to text converter by javaScript 
+Speech to text converter (Arabic Languge) using JavaScript
